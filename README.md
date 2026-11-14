@@ -17,9 +17,8 @@
 ```yaml
 name:      BoxDelta
 os:        Arch Linux // GNOME
-building:  Aether, a personal HQ
+creating:  Aether, a personal HQ
 automates: n8n workflows in Docker
-creating:  a faceless indie game channel
 ```
 
 > *"Dark code. Sharp tools. No wasted motion."*
