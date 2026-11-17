@@ -4,13 +4,11 @@
   <br/>
 
   <a href="https://github.com/BoxDelta">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=620&lines=BoxDelta;Building+Aether+in+the+dark;Automating+everything+with+n8n;Arch+Linux+%2B+GNOME;Release+your+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=620&repeat=false&lines=BoxDelta" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
-
-<img src="assets/hollow.gif" align="right" width="380" alt="hollow" />
 
 ### About Me // 自己紹介
 
@@ -20,10 +18,6 @@ os:        Arch Linux // GNOME
 creating:  Aether, a personal HQ
 automates: n8n workflows in Docker
 ```
-
-> *"Dark code. Sharp tools. No wasted motion."*
-
-<br clear="right"/>
 
 ---
 
